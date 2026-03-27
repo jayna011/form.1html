@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head></head>
+    <body>
+        <h2>2-tapsirma</h2>
+        <h1>HAZIR ISLEYMIZ YAMASA OQIYMIZ</h1>
+        <form>
+            <fieldset>
+                <input type="radio" name="HAZIR ISLEYMIZ YAMASA OQIYMIZ"><label>Oqitiwshi</label>
+                <input type="radio" name="HAZIR ISLEYMIZ YAMASA OQIYMIZ"><label>Student</label>
+                <input type="radio" name="HAZIR ISLEYMIZ YAMASA OQIYMIZ"><label>Jumisshi</label>
+            </fieldset>
+        </form>
+    </body>
+</html>
