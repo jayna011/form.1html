@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+    </head>
+    <body>
+        <p>Uy tapsirmasin (fayldi) tanlan:</p>
+        <button>Choose File</button> <span>no file chosen</span>
+        <p>Esletpe:fayl tanlaw majburiy</p>
+    </body>
+</html>
